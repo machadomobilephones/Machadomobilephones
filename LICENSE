@@ -3,4 +3,117 @@ Chamar no WhatsApp
    target="_blank"
    style="display:inline-block; background:#25D366; color:white; padding:14px 25px; border-radius:8px; text-decoration:none; font-weight:bold; margin:15px 0;">
    📱 CHAMAR NO WHATSAPP
-</a>
+<!-- PREÇÁRIO DE TELEFONES DIGITAIS -->
+<section class="precos">
+    <h2>📱 Telefones Digitais</h2>
+    <p class="subtitulo">Preços atualizados - Machado Mobile Phones</p>
+
+    <div class="tabela-precos">
+        <div class="produto">
+            <span>Redmi A5</span>
+            <strong>115.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Samsung Galaxy A16</span>
+            <strong>168.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Samsung Galaxy A14</span>
+            <strong>145.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Samsung Galaxy A17</span>
+            <strong>170.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Samsung Galaxy A05</span>
+            <strong>105.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Itel A90</span>
+            <strong>130.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Tecno Pop 10</span>
+            <strong>125.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Tecno OALE Camon</span>
+            <strong>110.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>OPPO</span>
+            <strong>78.000 Kz</strong>
+        </div>
+
+        <div class="produto">
+            <span>Huawei</span>
+            <strong>75.000 Kz</strong>
+        </div>
+    </div>
+
+    <a class="botao-whatsapp"
+       href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20os%20telefones."
+       target="_blank">
+        📲 Comprar pelo WhatsApp
+    </a>
+</section>
+
+<style>
+.precos {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.precos h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.subtitulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tabela-precos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.produto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+}
+
+.produto strong {
+    font-size: 16px;
+}
+
+.botao-whatsapp {
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: #25D366;
+}
+</style>
