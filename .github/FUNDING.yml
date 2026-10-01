@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Telemóveis Machado | Smartphones e Acessórios | Angola</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+    }
+
+    header {
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 25px 15px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    header p {
+      margin: 8px 0 0;
+      font-size: 16px;
+    }
+
+    .info {
+      background: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .info p {
+      margin: 8px 0;
+    }
+
+    .produtos {
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 10px;
+    }
+
+    .produtos h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .produto {
+      background: white;
+      margin-bottom: 15px;
+      padding: 18px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .produto h3 {
+      margin: 0 0 8px;
+    }
+
+    .preco {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 12px;
+    }
+
+    .botao {
+      display: inline-block;
+      text-decoration: none;
+      color: white;
+      padding: 11px 18px;
+      border-radius: 7px;
+      margin-right: 7px;
+      margin-top: 5px;
+      font-weight: bold;
+    }
+
+    .comprar {
+      background: #0b7a35;
+    }
+
+    .whatsapp {
+      background: #25D366;
+    }
+
+    footer {
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 25px 15px;
+      margin-top: 30px;
+    }
+
+    footer p {
+      margin: 8px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Machado Mobile Phones</h1>
+  <p>Telemóveis, Smartphones e Acessórios</p>
+</header>
+
+<section class="info">
+  <p>📍 <strong>Localização:</strong> Porto Amboim — Mercado Municipal / Praça</p>
+  <p>📞 <strong>Contactos:</strong> 934 893 257 / 955 686 650</p>
+  <p>📦 Fazemos encomendas e entregas</p>
+</section>
+
+<section class="produtos">
+
+  <h2>📱 Preçário de Telefones</h2>
+
+  <div class="produto">
+    <h3>Redmi A5</h3>
+    <div class="preco">115.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Redmi%20A5." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Redmi%20A5." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Samsung A16</h3>
+    <div class="preco">168.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Samsung%20A16." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Samsung%20A16." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Samsung A14</h3>
+    <div class="preco">145.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Samsung%20A14." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Samsung%20A14." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Samsung A17</h3>
+    <div class="preco">170.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Samsung%20A17." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Samsung%20A17." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Samsung A05</h3>
+    <div class="preco">105.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Samsung%20A05." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Samsung%20A05." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Itel A90</h3>
+    <div class="preco">130.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Itel%20A90." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Itel%20A90." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Tecno Pop 10</h3>
+    <div class="preco">125.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Tecno%20Pop%2010." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Tecno%20Pop%2010." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Tecno OALE Camom</h3>
+    <div class="preco">110.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20o%20Tecno%20OALE%20Camom." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20o%20Tecno%20OALE%20Camom." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>OPPO</h3>
+    <div class="preco">78.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20um%20OPPO." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20os%20OPPO." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <div class="produto">
+    <h3>Huawei</h3>
+    <div class="preco">75.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20comprar/encomendar%20um%20Huawei." target="_blank">🛒 Comprar / Encomendar</a>
+    <a class="botao whatsapp" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20gostaria%20de%20saber%20mais%20sobre%20os%20Huawei." target="_blank">💬 WhatsApp</a>
+  </div>
+
+  <h2>☎️ Telefones de Teclas</h2>
+
+  <div class="produto">
+    <h3>Tecno</h3>
+    <div class="preco">15.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20telefone%20de%20teclas%20Tecno." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Itel</h3>
+    <div class="preco">15.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20telefone%20de%20teclas%20Itel." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Laranjinha Grande</h3>
+    <div class="preco">13.500 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20Laranjinha%20Grande." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Stilo Pequeno</h3>
+    <div class="preco">9.500 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20Stilo%20Pequeno." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Stilo Grande</h3>
+    <div class="preco">16.000 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20Stilo%20Grande." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Vilão</h3>
+    <div class="preco">12.500 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20telefone%20Vilão." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+  <div class="produto">
+    <h3>Vilão Grande</h3>
+    <div class="preco">15.500 Kz</div>
+    <a class="botao comprar" href="https://wa.me/244934893257?text=Olá%20Machado%20Mobile%20Phones,%20quero%20encomendar%20um%20Vilão%20Grande." target="_blank">🛒 Comprar / Encomendar</a>
+  </div>
+
+</section>
+
+<footer>
+  <p><strong>Machado Mobile Phones</strong></p>
+  <p>📍 Porto Amboim — Mercado Municipal / Praça</p>
+  <p>📞 934 893 257 | 955 686 650</p>
+  <p>📦 Encomendas e entregas disponíveis</p>
+</footer>
+
+</body>
+</html>
